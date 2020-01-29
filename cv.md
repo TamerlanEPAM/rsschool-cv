@@ -31,3 +31,5 @@ Java core, Spring Framework, Spring Boot, SQL
 **Duration:** 2016-2018
 ## English
 **Level:** B1 (according to EPAM internal assesment)
+## Hobby
+My free time I spend playing hockey, climbing mountains and other active leisure
