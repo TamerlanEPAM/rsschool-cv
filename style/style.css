@@ -16,6 +16,10 @@ body {
     line-height: 36px;
   }
 
+  h2{
+    border-bottom:1px solid #cccccc;
+  }
+
   table td:first-child {
     font-weight: bold;
     vertical-align: text-top;
@@ -32,8 +36,8 @@ body {
 
 .general{
     background-image: url("../img/photo.jpg");
-    background-size: 128px 128px;
+    background-size: 90px 90px;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right bottom;
 }
 
